@@ -56,11 +56,12 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rosemary007&theme=default&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=rosemary007&hide_border=true"
     alt="GitHub Streak Stats"
   />
 </p>
+
 
 ---
 
