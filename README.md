@@ -64,5 +64,8 @@
 
 ###
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" width="100%" />
+
+
 ![snake gif](https://github.com/RoseMary007/RoseMary007/blob/output/github-snake-dark.svg)
 
