@@ -53,14 +53,13 @@
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rosemary007&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=rosemary007&hide_border=true" />
 </p>
+
 
 
 ---
