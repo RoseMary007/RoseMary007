@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rosemary007&label=Profile%20Views&color=0e75b6&style=flat" alt="rosemary007" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rosemary007&theme=flat&margin-w=15&margin-h=15" alt="rosemary007 trophies" />
-  </a>
-</p>
 
 ---
 
